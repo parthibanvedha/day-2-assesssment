@@ -1,0 +1,23 @@
+object document;
+ * Document object represents the HTML document that is displayed in that window.
+ * The Document object has various properties that refer to other objects which allow access to and modification of document content.
+ *  The document object can be accessed with a window.document or just document.
+
+ syntax:
+
+ two variation ;
+ one;
+ document.property_name:
+ two;
+ document.method_name:
+
+
+
+ window document:
+ * it is represent window object with loaded web page .
+ * it is accessing window.document_name.
+ * it is topmost dom hierarchy.
+
+ syntax:
+
+ window.methid_name
